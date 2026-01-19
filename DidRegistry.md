@@ -18,14 +18,14 @@ Did-Registry stack of contracts are based on [Lacchain did registry](https://git
 
 ## Smart contracts
 
-- [DidRegistry](../../contracts/identity/didRegistry/DIDRegistry.sol)
-- [DidRegistry Recoverable](../../contracts/identity/didRegistry/DIDRegistryRecoverable.sol)
+- [DidRegistry](contracts/identity/didRegistry/DIDRegistry.sol)
+- [DidRegistry Recoverable](contracts/identity/didRegistry/DIDRegistryRecoverable.sol)
 
 The same as above, but with Gas Model support:
 
-- [DidRegistry](../../contracts/identity/didRegistryGasModel/DIDRegistry.sol)
-- [DidRegistry Recoverable](../../contracts/identity/didRegistryGasModel/DIDRegistryRecoverable.sol)
+- [DidRegistry](contracts/identity/didRegistryGasModel/DIDRegistry.sol)
+- [DidRegistry Recoverable](contracts/identity/didRegistryGasModel/DIDRegistryRecoverable.sol)
 
 ## Smart contracts Methods and Emmitted events
 
-- [Did Registry](../../contracts/identity/IDIDRegistry.sol)
+- [Did Registry](contracts/identity/IDIDRegistry.sol)
